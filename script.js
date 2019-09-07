@@ -4,7 +4,7 @@ var SpeechRecognitionEvent =
   SpeechRecognitionEvent || webkitSpeechRecognitionEvent;
 
 var phrases = [
-  "La masa blanda estaba blanda",
+  "La masa blanca estaba blanda",
   "La paloma se poso en el palo"
   // "Te quiero mucho",
   // "pasame esa lapicera.",
